@@ -5,10 +5,11 @@ def dictionary
     "two" => "2",
     "too" => "2",
     "for" => "4",
-    "b" => "be",
-    "u" => "you",
-    "@" => "at",
-    "&" => "and"
+    "four" => "4",
+    "be" => "b",
+    "you" => "u",
+    "at" => "@",
+    "and" => "&"
   }
 end
 
